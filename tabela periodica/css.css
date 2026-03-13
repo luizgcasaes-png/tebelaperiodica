@@ -1,0 +1,88 @@
+*{
+    color:white;
+}
+.container-td{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    flex-direction: column;
+}
+.table{
+    height: 100vh;
+    width: 100%;
+    border-radius: 20px;
+}
+td{
+    width: 5%;
+    height: 10%;
+    text-align: center;
+}
+.ametaisreativos{
+    background-color: rgb(72, 72, 160);
+    border-radius: 20px;
+}
+.gasesnobres{
+    background-color: rgb(97, 36, 36);
+    border-radius: 20px;
+}
+.metaisdetransicao{
+    background-color: rgb(95, 74, 116);
+    border-radius: 20px;
+}
+.metaispostrasicao{
+    background-color: rgb(47, 122, 47);
+    border-radius: 20px;
+}
+.propriedadesdesconhecidas{
+    background-color: gray;
+    border-radius: 20px;
+}
+.semimetais{
+    background-color: rgb(109, 109, 39);
+    border-radius: 20px ;
+}
+.metaisalcalinosterrosos{
+    background-color: rgb(119, 44, 44);
+    border-radius: 20px;
+}
+.metaisalcalinos{
+    background-color: rgb(37, 95, 37);
+    border-radius: 20px;
+}
+.lantanideos{
+    background-color: rgb(47, 47, 161);
+    border-radius: 20px;
+}
+.actinideos{
+    background-color: rgb(105, 22, 22);
+    border-radius: 20px;
+}
+.quadrados{
+   padding: 10px;
+    margin-right: 20px;
+    border: 1px black;
+}
+.caixa{
+    margin-right: 5px;
+    align-items: center;
+    display: flex;
+}
+
+
+
+
+
+.caracteristicas{
+    border: 1px solid black;
+    height: 20px;
+    width: 100%;
+
+
+}
+.tb{ 
+    height: 10px;
+    width: 100%;
+    border-radius: 20px;
+
+}
